@@ -1,4 +1,3 @@
-import math
 from fake_math import divide as fd
 from true_math import divide as td
 
